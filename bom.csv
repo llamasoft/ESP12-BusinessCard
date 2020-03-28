@@ -1,0 +1,17 @@
+Qty,Designator,Footprint,Comment,LCSC Part #,Description
+2,"S_PROG, S_RESET",B3F-10XX,,,OMRON 6MM SWITCH
+1,ESP12F,ESP12E-SMD,,,ESP12F Module
+1,PWR,CHIP-LED0603,,C2286,RED LED
+2,"JP1, JP2",1X10,,,PIN HEADER
+1,USB_PIN,1X05,,,PIN HEADER
+1,JP3,1X06,,,PIN HEADER
+2,"C4, C6",C0805,100nF,C49678,"CAPACITOR, American symbol"
+5,"R1, R2, R4, R5, R6",R0805,10k,C17414,"RESISTOR, American symbol"
+3,"C1, C3, C5",C0805,10uF,C15850,"CAPACITOR, American symbol"
+1,X1,CRYSTAL-SMD-3.2X2.5MM,12MHz,C9002,Crystals w/ Ground Pin (Generic)
+1,R3,R0805,1k,C17513,"RESISTOR, American symbol"
+1,C2,C0805,1uF,C28323,"CAPACITOR, American symbol"
+2,"C7, C8",C0805,47pF,C14857,"CAPACITOR, American symbol"
+1,AMS1117,SOT223,AMS1117,C6186,800mA and 1A Low Dropout (LDO) Positive Regulator
+1,CH340G,SOIC16,CH340G,C14267,USB to Serial IC
+1,USB,ZX62D-B-5PA8,ZX62D-B-5PA8,,"Micro USB Type B Connector - Standard, Shell Through Hole"
